@@ -7,7 +7,7 @@ void setup()
 {
   noLoop();
   size(300,300);
-  background(255,255,255);
+  background(0,0,0);
   
 }
 void draw()
