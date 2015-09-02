@@ -5,6 +5,7 @@ int endY = 150;
 
 void setup()
 {
+framrate(10);
  // noLoop();
   size(300,300);
   background(0,0,0);
